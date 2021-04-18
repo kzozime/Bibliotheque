@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/bibliotheque",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
